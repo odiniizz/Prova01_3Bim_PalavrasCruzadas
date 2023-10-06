@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696559481 source:/home/odiniizz/Documentos/Prova01_3Bim_JulioDiniz/main.cpp
+	"Palavra.h"
+	<time.h>
+
+1696559481 /home/odiniizz/Documentos/Prova01_3Bim_JulioDiniz/Palavra.h
+	<iostream>
+	<fstream>
+	<time.h>
+
+1696559481 source:/home/odiniizz/Documentos/Prova01_3Bim_JulioDiniz/Palavra.cpp
+	"Palavra.h"
+
